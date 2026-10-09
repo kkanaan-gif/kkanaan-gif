@@ -1,6 +1,6 @@
 # Hi, I'm Khaled Kanaan 
 
-### 💻 Computer Engineering Student | Software Development | AI & Technology
+### 💻 Computer Engineering Student | HardWare / Software Development | AI & Technology
 
 I'm a Computer Engineering student at Toronto Metropolitan University with an interest in software engineering, artificial intelligence, and building practical technology solutions.
 
